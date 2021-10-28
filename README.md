@@ -7,4 +7,5 @@ I am a researcher, just contact me and we can do some wonderful things
 
 ## Contacts
 Email: dev@artie.su
+
 LeetCode: https://leetcode.com/lartie/
