@@ -7,7 +7,7 @@ I am a researcher, just contact me and we can do some wonderful things
 * Как крокодил помогает писать сервисы в CityMobil
 
 ## Contacts
-Email: dev@artie.su
+Email: log.wil.log@gmail.com
 
 LeetCode: https://leetcode.com/lartie/  | See [solved problems](https://github.com/lartie/leetcode)
 
