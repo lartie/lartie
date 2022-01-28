@@ -8,6 +8,6 @@ I am a researcher, just contact me and we can do some wonderful things
 ## Contacts
 Email: dev@artie.su
 
-LeetCode: https://leetcode.com/lartie/
+LeetCode: https://leetcode.com/lartie/ [Solves](https://github.com/lartie/leetcode)
 
 LinkedIn: https://www.linkedin.com/in/lartie/
