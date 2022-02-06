@@ -9,6 +9,6 @@ I am a researcher, just contact me and we can do some wonderful things
 ## Contacts
 Email: log.wil.log@gmail.com
 
-LeetCode: https://leetcode.com/lartie/  | See [solved problems](https://github.com/lartie/leetcode)
+LeetCode: https://leetcode.com/lartie/  | See [solved problems](https://github.com/lartie/leetcode/tree/master/problems)
 
 LinkedIn: https://www.linkedin.com/in/lartie/
