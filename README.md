@@ -4,7 +4,7 @@ I am a researcher, just contact me and we can do some wonderful things
 
 ## Articles
 * [Как ухаживать за грядкой Redis'а и как сохранить урожай?](https://habr.com/en/company/citymobil/blog/557306/)
-* [Расширяем возможности go:embed]()
+* [Расширяем возможности go:embed](#) – coming soon
 
 ## Contacts
 Email: log.wil.log@gmail.com
