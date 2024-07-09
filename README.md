@@ -7,7 +7,7 @@ I am a researcher, just contact me and we can do some wonderful things
 * [Расширяем возможности go:embed](#) – coming soon
 
 ## Contacts
-Email: log.wil.log@gmail.com
+Email: artemybeliankin+github@gmail.com
 
 LeetCode: [link](https://leetcode.com/lartie/)  | See [solved problems](https://github.com/lartie/leetcode/tree/master/problems)
 
